@@ -63,7 +63,10 @@ I am a Junior Data Scientist with a solid background in business management and 
 ---
 
 ### **Projects**  
-In this section, you can include any data-related projects you’ve worked on, showcasing your ability to solve real-world problems through data analysis. You can list projects related to customer feedback analysis, sales data prediction, or data visualizations that demonstrate your skills in Python, SQL, or Tableau. For each project, consider including a brief summary of the problem, your approach, and the solution.
+## The Impact of Wellness-Focused Product Offerings on Sales Performance in Restaurant business
+![Alt text](./assets/daily_trends.png )
+
+https://colab.research.google.com/drive/1AhExRiiSQWHJWwDqEa6pkpI6XSxa2uwg?usp=sharing
 
 ---
 
