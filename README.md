@@ -1,4 +1,4 @@
-### **Ekanola Olufisayo Arike**  
+### **Ekanola Olufisayomi Arike**  
 📍 Lagos, Nigeria | 📞 +234 (0) 8063607801 | 📧 olatoyeolufisayo@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ekanola-olufisayomi-b3543963/)
 
