@@ -1,7 +1,3 @@
-Here's a refined draft for your **Junior Data Scientist** portfolio website based on your CV:
-
----
-
 ### **Ekanola Olufisayo Arike**  
 📍 Lagos, Nigeria | 📞 +234 (0) 8063607801 | 📧 olatoyeolufisayo@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ekanola-olufisayomi-b3543963/)
