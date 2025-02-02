@@ -103,5 +103,36 @@ This project demonstrates my ability to analyze structured sales data, visualize
 
 [View Project in Colab](https://colab.research.google.com/drive/1AhExRiiSQWHJWwDqEa6pkpI6XSxa2uwg?usp=sharing)
 
+
 ---
+
+### **Telco Customer Churn Analysis**  
+![Daily sales trend](./assets/correlation_map.jpg)
+
+This project is a  **structured machine learning workflow covering data acquisition, analysis, model building, and deployment.** aimed at analyzing and predicting customer churn in the telecommunications industry. It was conducted as part of a class exercise in the **MSc Data Science program at Pan-Atlantic University**, in collaboration with my lecturer and classmates.  
+
+#### **Project Overview:**  
+1. **Data Collection:**  
+   - Retrieved telecom customer churn data from **Kaggle** using a Python script.  
+2. **Exploratory Data Analysis (EDA):**  
+   - Used **Matplotlib and Seaborn** for in-depth data visualization and insights.  
+3. **Machine Learning Model:**  
+   - Built a **churn prediction model** using **Scikit-learn**, exploring algorithms such as Logistic Regression and Decision Trees.  
+   - Evaluated model performance using metrics like accuracy, precision, recall, and F1-score.  
+4. **Web App Development:**  
+   - Deployed an **interactive Streamlit web application** to allow users to analyze churn data and predict customer churn in real-time.  
+
+#### **Technologies Used:**  
+- **Python** (for data processing and model building)  
+- **Pandas, Matplotlib, Seaborn** (for data analysis & visualization)  
+- **Scikit-learn** (for machine learning model training)  
+- **Streamlit** (for web-based visualization & deployment)  
+
+This project demonstrates **end-to-end data science skills**, from data acquisition to model deployment, and showcases my ability to apply **data-driven insights** to a real-world business problem.  
+
+
+[View on Github](https://github.com/OlufisayomiEkanola/Telco-Customer-Churn-Analysis)
+[View Project Dashboard] (https://telco-customer-churn-analysis-olufisayomi.streamlit.app/)
+---
+
 
