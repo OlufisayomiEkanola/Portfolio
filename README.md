@@ -131,8 +131,10 @@ This project is a  **structured machine learning workflow covering data acquisit
 This project demonstrates **end-to-end data science skills**, from data acquisition to model deployment, and showcases my ability to apply **data-driven insights** to a real-world business problem.  
 
 
-[View on Github](https://github.com/OlufisayomiEkanola/Telco-Customer-Churn-Analysis)
-[View Project Dashboard] (https://telco-customer-churn-analysis-olufisayomi.streamlit.app/)
+
+[View on Github](https://github.com/OlufisayomiEkanola/Telco-Customer-Churn-Analysis)  
+
+[View Project Dashboard](https://telco-customer-churn-analysis-olufisayomi.streamlit.app/)
 ---
 
 
