@@ -63,10 +63,45 @@ I am a Junior Data Scientist with a solid background in business management and 
 ---
 
 ### **Projects**  
-## The Impact of Wellness-Focused Product Offerings on Sales Performance in Restaurant business
-![Alt text](./assets/daily_trends.png )
 
-https://colab.research.google.com/drive/1AhExRiiSQWHJWwDqEa6pkpI6XSxa2uwg?usp=sharing
+### **Sales Analysis Dashboard for Wearable Products**  
+
+![Alt text](./assets/wearable.jpg)
+
+**Task:**  
+Developed an interactive sales analysis dashboard using Google Sheets to visualize and analyze sales data from a wearable products dataset. The goal was to identify key sales trends, track performance by region, product, sales representative, and month, and provide actionable insights for business decision-making.  
+
+**Key Achievements:**  
+- Processed and analyzed a dataset containing sales transactions, covering product categories, regions, and sales representatives.  
+- Created visualizations to track **sales by product, region, month, and sales rep**, highlighting top-performing categories and trends.  
+- Identified peak sales months (**June and January**) and high-revenue regions (**Kano and Lagos**) to optimize marketing strategies.  
+- Highlighted sales rep performance, showing variations in sales contribution and opportunities for improvement.  
+- Ensured data accuracy by structuring and cleaning sales data for better decision-making.  
+
+This project showcases my ability to work with structured sales data, create meaningful visualizations, and derive business insights to drive performance.  
+
+[View Sales Dashboard](https://docs.google.com/spreadsheets/d/1K0Tg6Lycaixn8HUTXeyz2uMYtSPyujKknYlo7w_7N3I/edit?usp=sharing)
+
+
+---
+
+### **Sales Analysis for Wellness-Focused Restaurant Products**  
+
+![Daily sales trend](./assets/daily_trends.png)
+
+**Task:**  
+Developed a comprehensive sales analysis project to examine the impact of wellness-focused product offerings in the restaurant industry. The goal was to compare their sales performance with traditional products and provide actionable insights for menu optimization and customer targeting.  
+
+**Key Achievements:**  
+- Processed and analyzed sales data, covering product categories, units sold, revenue per product, and customer demographics (age, gender, and visit frequency).  
+- Created visualizations to track **sales trends by product category, revenue distribution, and customer segments**, highlighting the competitive performance of wellness-focused items.  
+- Identified younger customers (aged **18-25**) as key consumers of wellness products, with frequent repeat visits.  
+- Showcased wellness products like **organic kale salad and vegan smoothie** as high-performing items compared to some traditional offerings.  
+- Provided recommendations for product diversification to attract health-conscious customers and boost sales.  
+
+This project demonstrates my ability to analyze structured sales data, visualize trends, and derive meaningful business insights to guide decision-making.
+
+[View Project in Colab](https://colab.research.google.com/drive/1AhExRiiSQWHJWwDqEa6pkpI6XSxa2uwg?usp=sharing)
 
 ---
 
