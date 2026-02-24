@@ -5,7 +5,7 @@
 ---
 
 ### **About Me**
-I am a Junior Data Scientist with a solid background in business management and client relations, combining more than five years of experience with a growing skill set in data science. I am currently pursuing an MSc in Data Science at Pan-Atlantic University, Lagos, to sharpen my analytical abilities. My goal is to leverage data-driven insights to solve complex problems and deliver impactful solutions for organizations. I thrive in dynamic environments where I can use my technical skills and problem-solving mindset to drive meaningful business growth.
+I am a Data Scientist with a solid background in business management and client relations, combining more than five years of experience with a growing skill set in data science. I am currently pursuing an MSc in Data Science at Pan-Atlantic University, Lagos, to sharpen my analytical abilities. My goal is to leverage data-driven insights to solve complex problems and deliver impactful solutions for organizations. I thrive in dynamic environments where I can use my technical skills and problem-solving mindset to drive meaningful business growth.
 
 ---
 
